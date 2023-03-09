@@ -1,22 +1,42 @@
 <odoo>
-    <template id="v_block" name="V Block">
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 text-center">
-                        <h3>Client Name</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    </div>
-                    <div class="col-lg-4 text-center">
-                        <h3>Client Name</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    </div>
-                    <div class="col-lg-4 text-center">
-                        <h3>Client Name</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    </div>
+    <template id="l_block" name="Hover Columns">
+          <section class="s_three_columns o_cc o_cc2 pt32 pb32 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="Hover Columns" style="background-image: none;">
+        <div class="container">
+          <div class="row d-flex align-items-start" style="">
+            <div class="s_col_no_bgcolor g- g-height-8 col-lg-4" style="">
+              <div class="card text-bg-white h-100 shadow rounded" style="box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 12px 0px inset !important; border-radius: 30px !important;">
+                <img class="card-img-top" src="http://localhost:8069/web/image/website.s_three_columns_default_image_1" alt="" loading="lazy" data-original-id="256" data-original-src="/web/image/website.library_image_11" data-mimetype="image/jpeg" style="" data-bs-original-title="" title="" aria-describedby="tooltip472780"/>
+                <div class="card-body">
+                  <h3 class="card-title o_default_snippet_text">Feature One</h3>
+                  <p class="card-text o_default_snippet_text">Adapt these three columns to fit your design need. To duplicate, delete or move columns, select the column and use the top icons to perform your action.</p>
                 </div>
+              </div>
             </div>
-        </section>
+            <div class="s_col_no_bgcolor g- g-height-8 col-lg-4" style="">
+              <div class="card text-bg-white h-100 rounded" style="border-radius: 30px !important;">
+                <img class="card-img-top" src="http://localhost:8069/web/image/website.s_three_columns_default_image_2" alt="" loading="lazy" data-original-id="257" data-original-src="/web/image/website.library_image_13" data-mimetype="image/jpeg" style="" data-bs-original-title="" title="" aria-describedby="tooltip712526"/>
+                <div class="card-body">
+                  <h3 class="card-title o_default_snippet_text">Feature Two</h3>
+                  <p class="card-text o_default_snippet_text">To add a fourth column, reduce the size of these three columns using the right icon of each block. Then, duplicate one of the columns to create a new one as a copy.</p>
+                </div>
+              </div>
+            </div>
+            <div class="s_col_no_bgcolor g- g-height-8 col-lg-4" style="">
+              <div class="card text-bg-white h-100 rounded" style="border-radius: 30px !important;">
+                <img class="card-img-top" src="http://localhost:8069/web/image/website.s_three_columns_default_image_2" alt="" loading="lazy" data-original-id="257" data-original-src="/web/image/website.library_image_13" data-mimetype="image/jpeg" style="" data-bs-original-title="" title="" aria-describedby="tooltip712526"/>
+                <div class="card-body">
+                  <h3 class="card-title o_default_snippet_text">Feature Three</h3>
+                  <p class="card-text o_default_snippet_text">To add a fourth column, reduce the size of these three columns using the right icon of each block. Then, duplicate one of the columns to create a new one as a copy.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <style data-snippet="l_block" class="o_default_snippet_text" data-name="L Block">
+          .s_col_no_bgcolor:hover {
+            transform: scale(1.1);
+          }
+        </style>
     </template>
 </odoo>
