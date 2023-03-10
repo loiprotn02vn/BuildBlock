@@ -2,7 +2,7 @@
     <template id="tutorial_snippet" inherit_id="website.snippets" name="Hover Columns">
         <xpath expr="//div[@id='snippet_feature']/div[hasclass('o_panel_body')]" position="inside">
             <t t-snippet="tutorial_snippet.v_block"
-                t-thumbnail="/tutorial_snippet/static/src/img/snippets_thumbs/create-print-like-column-layout-with-css-columns.png" />
+                t-thumbnail="/static/src/img/snippets_thumbs/create-print-like-column-layout-with-css-columns.png" />
         </xpath>
     </template> 
 </odoo>
