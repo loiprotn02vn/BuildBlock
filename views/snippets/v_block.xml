@@ -33,7 +33,7 @@
           </div>
         </div>
       </section>
-      <style data-snippet="BuildBlock" class="o_default_snippet_text" data-name="Hover Columns">
+      <style data-snippet="v_block" class="o_default_snippet_text" data-name="Hover Columns">
           .s_col_no_bgcolor:hover {
             transform: scale(1.1);
           }
