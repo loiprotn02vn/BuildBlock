@@ -13,7 +13,7 @@
     "depends": ["base", "website"],
     "data": [
         # 'security/ir.model.access.csv',
-        "views/snippets/v_block.xml",
+        "views/snippets/l_block.xml",
         "views/snippets/snippets.xml",
     ],
     "assets": {
