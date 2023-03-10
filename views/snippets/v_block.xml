@@ -1,6 +1,6 @@
 <odoo>
-    <template id="v_block" name="BuildBlock">
-          <section class="s_three_columns o_cc o_cc2 pt32 pb32 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="BuildBlock" style="background-image: none;">
+    <template id="BuildBlock" name="Hover Columns">
+          <section class="s_three_columns o_cc o_cc2 pt32 pb32 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="Hover Columns" style="background-image: none;">
         <div class="container">
           <div class="row d-flex align-items-start" style="">
             <div class="s_col_no_bgcolor g- g-height-8 col-lg-4" style="">
@@ -33,7 +33,7 @@
           </div>
         </div>
       </section>
-      <style data-snippet="v_block" class="o_default_snippet_text" data-name="BuildBlock">
+      <style data-snippet="BuildBlock" class="o_default_snippet_text" data-name="Hover Columns">
           .s_col_no_bgcolor:hover {
             transform: scale(1.1);
           }
