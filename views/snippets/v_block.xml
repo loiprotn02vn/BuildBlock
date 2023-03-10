@@ -5,7 +5,7 @@
           <div class="row d-flex align-items-start" style="">
             <div class="s_col_no_bgcolor g- g-height-8 col-lg-4" style="">
               <div class="card text-bg-white h-100 shadow rounded" style="box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 12px 0px inset !important; border-radius: 30px !important;">
-                <img class="card-img-top" src="/tutorial_snippet/static/src/img/snippets_thumbs/tree-g191cd10ab_1280.jpg" alt="" loading="lazy" data-original-id="256" style="" data-bs-original-title="" title="" aria-describedby="tooltip472780"/>
+                <img class="card-img-top" src="/BuildBlock/static/src/img/snippets_thumbs/tree-g191cd10ab_1280.jpg" alt="" loading="lazy" data-original-id="256" style="" data-bs-original-title="" title="" aria-describedby="tooltip472780"/>
                 <div class="card-body">
                   <h3 class="card-title o_default_snippet_text">Feature One</h3>
                   <p class="card-text o_default_snippet_text">Adapt these three columns to fit your design need. To duplicate, delete or move columns, select the column and use the top icons to perform your action.</p>
@@ -14,7 +14,7 @@
             </div>
             <div class="s_col_no_bgcolor g- g-height-8 col-lg-4" style="">
               <div class="card text-bg-white h-100 rounded" style="border-radius: 30px !important;">
-                <img class="card-img-top" src="/tutorial_snippet/static/src/img/snippets_thumbs/flowers-ga130e089d_1920.jpg" alt="" loading="lazy" data-original-id="257" style="" data-bs-original-title="" title="" aria-describedby="tooltip712526"/>
+                <img class="card-img-top" src="/BuildBlock/static/src/img/snippets_thumbs/flowers-ga130e089d_1920.jpg" alt="" loading="lazy" data-original-id="257" style="" data-bs-original-title="" title="" aria-describedby="tooltip712526"/>
                 <div class="card-body">
                   <h3 class="card-title o_default_snippet_text">Feature Two</h3>
                   <p class="card-text o_default_snippet_text">To add a fourth column, reduce the size of these three columns using the right icon of each block. Then, duplicate one of the columns to create a new one as a copy.</p>
@@ -23,7 +23,7 @@
             </div>
             <div class="s_col_no_bgcolor g- g-height-8 col-lg-4" style="">
               <div class="card text-bg-white h-100 rounded" style="border-radius: 30px !important;">
-                <img class="card-img-top" src="/tutorial_snippet/static/src/img/snippets_thumbs/tree-g4242c6393_1280.jpg" alt="" loading="lazy" data-original-id="257" style="" data-bs-original-title="" title="" aria-describedby="tooltip712526"/>
+                <img class="card-img-top" src="/BuildBlock/static/src/img/snippets_thumbs/tree-g4242c6393_1280.jpg" alt="" loading="lazy" data-original-id="257" style="" data-bs-original-title="" title="" aria-describedby="tooltip712526"/>
                 <div class="card-body">
                   <h3 class="card-title o_default_snippet_text">Feature Three</h3>
                   <p class="card-text o_default_snippet_text">To add a fourth column, reduce the size of these three columns using the right icon of each block. Then, duplicate one of the columns to create a new one as a copy.</p>
