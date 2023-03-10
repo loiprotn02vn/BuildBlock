@@ -2,7 +2,7 @@
     <template id="BuildBlock" inherit_id="website.snippets" name="Hover Columns">
         <xpath expr="//div[@id='snippet_structure']/div[hasclass('o_panel_body')]" position="inside">
             <t t-snippet="BuildBlock.v_block"
-                t-thumbnail="/website/static/src/img/snippets_thumbs/s_three_columns.svg" />
+                t-thumbnail="/tutorial_snippet/static/src/img/snippets_thumbs/create-print-like-column-layout-with-css-columns.png" />
         </xpath>
     </template>
 </odoo>
