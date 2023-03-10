@@ -1,5 +1,5 @@
 <odoo>
-    <template id="v_block" name="Hover Columns">
+    <template id="BuildBlock" name="Hover Columns">
           <section class="s_three_columns o_cc o_cc2 pt32 pb32 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="Hover Columns" style="background-image: none;">
         <div class="container">
           <div class="row d-flex align-items-start" style="">
